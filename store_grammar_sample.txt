@@ -1,0 +1,16 @@
+STORE  {
+	TITLE {%Tienda1%}
+	CONTACTINFO{"Whatsapp +57 300 500 00 00"}
+	
+	WAREHOUSE
+		{
+		PRODUCT{PRDID{%P1%}TITLE{"Monitor"}  DESC{"Monitor 19 pulgadas"}PRICE{300}}
+		PRODUCT{PRDID{%P2%}TITLE{"Impresora"}DESC{"Impresora Color"}    PRICE{500}}
+		} 	
+
+	SHOWROOM
+		{
+		%P1%;%P2%;
+		}
+       }
+
