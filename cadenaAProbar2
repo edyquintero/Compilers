@@ -1,0 +1,12 @@
+INICIO
+ASIGNAR A x = 3
+SI x >= 18 ENTONCES
+imprimir("El número es positivo")
+SINO
+SI x <= 0 ENTONCES
+imprimir("El número es negativo")
+SINO
+imprimir("El número es cero")
+FIN SI
+FIN SI
+FIN

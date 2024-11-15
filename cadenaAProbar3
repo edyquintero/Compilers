@@ -1,0 +1,8 @@
+INICIO
+ASIGNAR A a = 18
+SI a >= 18 ENTONCES
+imprimir("Puedes votar")
+SINO
+imprimir("No puedes votar")
+FIN SI
+FIN

@@ -1,0 +1,9 @@
+INICIO
+ASIGNAR A x = 2
+ASIGNAR A y = 1
+SI x == y ENTONCES
+imprimir("x es igual a y")
+SINO
+imprimir("x no es igual a y")
+FIN SI
+FIN
